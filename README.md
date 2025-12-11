@@ -106,10 +106,9 @@ The entire system relies on a simple, consistent serial protocol:
 
 ## 📂 Project Structure
 
-
-.
-├── arduino_code.ino       # C++ Firmware for the Arduino microcontroller
-├── python_code.py         # Python listener, logging, and WhatsApp automation script
-├── README.md              # This file
-└── attendance_log.csv     # Automatically generated log file
-
+project/
+│
+├── arduino_code.ino        // Arduino firmware for fingerprint, LCD, buzzer, serial output
+├── python_code.py          // Python listener for serial, Google Sheets logging, WhatsApp automation
+├── attendance_log.csv      // Auto-generated attendance log
+└── README.md               // Project documentation
