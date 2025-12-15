@@ -42,6 +42,13 @@ This hybrid system aims to enhance security, reduce human error, and provide sec
 | **Green LED** | Access Granted Indicator | D4 |
 | **Red LED / Buzzer** | Access Denied Indicator | D5 / D6 |
 
+## 📸 Physical Prototype
+
+Below is a photograph of the final, assembled attendance system, showing the Arduino, Keypad, LCD, and Fingerprint Sensor connected.
+![Completed Biometric System Prototype](assets/prototype_image.jpg)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21b6e27d-2b04-48fa-83ed-3c73474dfe29" />
+
+
 ## 🚀 Setup and Installation Guide
 
 ### 1\. Arduino Setup (Firmware)
