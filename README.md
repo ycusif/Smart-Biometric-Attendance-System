@@ -4,15 +4,10 @@ To make your repository clean and easy to navigate, use the following structure 
 
 ```
 Smart-Biometric-Attendance-System/
-├── Arduino-Code/
-│   └── Biometric_Attendance_Arduino.ino   # Arduino C++ Code
-├── Python-Automation/
-│   └── biometric_automation.py            # Python Script
-├── Docs/
-│   └── biometric_presentation.pdf         # (Your uploaded presentation file)
-├── logs/
-│   └── attendance_log.csv                 # Attendance records (ignored by Git usually)
-├── .gitignore                             # Recommended to exclude logs/
+├── Arduino-Code/  # Arduino C++ Code
+├── Python.py            # Python Script
+├──  biometric_presentation.pdf         
+├── attendance_log.csv                 
 └── README.md                              # Main project documentation
 ```
 
